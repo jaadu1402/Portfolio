@@ -102,7 +102,7 @@ function onlyNumberKey(evt) {
 //   }
 //   if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
 //     // if(confirm("Sorry, Inspect is Hided😶!!.\nVisit my GitHub profile for source code😁\nYes, There r lots of ways to access it.Find it!🤔\nHint: Lil easy n in front of uhh")){ // shown confirm message if user click on OK
-//     //     window.open("https://github.com/anishteli238/anish-portfolio", '_blank');    //////// open github link in new tab
+//     //     window.open("https://github.com/jaadu1402/Portfolio", '_blank');    //////// open github link in new tab
 //     // }       
 //     return false;
 //   }
